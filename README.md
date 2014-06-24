@@ -12,6 +12,7 @@ This can be achived easily [using githib's built in selection of license](https:
   * overview of solution
   * basic code documentation
   * list of team members (with twitter/github handle where applicable) 
+
 _Note: The readme.md is written in markdown - for more details on formatting in markdown, see [this cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). If you prefer, html will also work well for formatting._
 
 
