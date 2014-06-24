@@ -1,9 +1,9 @@
 # Inventorthon Project Template 
 
 
-This is the template repo that contains all the documents necessary for submitting to Inventorthon. 
+This is the template repo that contains all the documents necessary for submitting to Inventorthon. It is not mandatory to submit a github repo, but if you would like to be included for judging and have the chance to win prizes, it would be necessary to check your code in at github. 
 
-## Things that must be included in the repo
+## Mandatory details in repo
 
 Every repo submitted to the Catapult must have the following fils at the root (i.e. not in any folder) 
 
