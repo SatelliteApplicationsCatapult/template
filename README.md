@@ -23,4 +23,4 @@ If you have not used github before - we suggest you:
 
 1. create a repo - give it whatever name you choose, initialise the repo with a readme.md and an open source license. ([instructions here](https://help.github.com/articles/create-a-repo))
 2. Update the readme.md with the required inforamtion as described above
-3. Send [marketing@sa.catapult.org.uk](mailto:marketing@sa.catapult.org.uk) the link of your github repo, we'll fork it. 
+3. Write the URL of your github repo on the paper near the entrance, we'll fork it at the deadline and judge on the fork. 
